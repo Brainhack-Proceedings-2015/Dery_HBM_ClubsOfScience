@@ -32,7 +32,7 @@ contrib: SD wrote the software, performed tests, and wrote the report.
   
 bibliography: brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100221}{doi:10.5524/100221}
 ...
 
 #Introduction
